@@ -11,3 +11,5 @@ Ce module crée :
 - un HTTPS load balancer qui utilisera le bucket comme backend (avec un certificat SSL managé par GCP)
 - un DNS qui pointera en Alias vers ce loadbalancer
 - un HTTP loadbalancer qui fait la redirection HTTP vers HTTPS
+
+## Utilisation du module
