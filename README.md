@@ -22,4 +22,4 @@ Ce module comporte trois paramètres obligatoires :
 
 Pour lancer ce module, utiliser la commande `terraform init`, suivi de la commande `terraform apply`
 
-Il est alors nécessaire d'uploader manuellement les fichiers du site dans le bucket et d'attendre quelques minutes le temps que GCP crée le certificat SSL. 
+Il est alors nécessaire d'uploader manuellement les fichiers du site dans le bucket et d'attendre quelques minutes (~15 - 20) le temps que GCP crée le certificat SSL. 
